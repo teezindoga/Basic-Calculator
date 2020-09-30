@@ -1,0 +1,59 @@
+img{
+border-radius:50%;
+width: 50px;
+position: absolute;
+
+}
+#main{
+    margin-left: 200px;
+    padding: 50px;
+    background-image: linear-gradient(to top, firebrick, tomato);
+    width: 400px;
+    height: 500px;
+}
+#cal{
+border-radius: 20%;
+background-color:  tomato;
+width: 396px;
+height: 480px;
+
+}
+#screen{
+  
+    background-color: whitesmoke;
+    width: 320px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 75px;
+    /*position: relative;*/
+    border: solid whitesmoke;
+    
+}
+#buttons-wrapper{
+    /*margin-left: 250px;*/
+background-color:  tomato;
+width: 250px;
+height: 400px;
+margin:auto;
+
+}
+button {
+    background-color: firebrick;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+  }
+  .bigButtonVert{
+      width:20%;
+
+  }
+  .bigButtonHor{
+      width: 25%;
+}
+  
